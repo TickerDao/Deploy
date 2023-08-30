@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2acbe60c.css",
-    "main.js": "/static/js/main.e64c7e97.js",
+    "main.css": "/static/css/main.6c626817.css",
+    "main.js": "/static/js/main.37bbd610.js",
     "static/js/689.c2ea1aa5.chunk.js": "/static/js/689.c2ea1aa5.chunk.js",
     "static/js/820.7f6df0db.chunk.js": "/static/js/820.7f6df0db.chunk.js",
     "static/js/589.8a31458e.chunk.js": "/static/js/589.8a31458e.chunk.js",
@@ -40,6 +40,7 @@
     "static/js/602.c2c7f348.chunk.js": "/static/js/602.c2c7f348.chunk.js",
     "static/js/419.9c2bc753.chunk.js": "/static/js/419.9c2bc753.chunk.js",
     "static/js/658.70f3f4da.chunk.js": "/static/js/658.70f3f4da.chunk.js",
+    "static/media/LcdSolid.ttf": "/static/media/LcdSolid.e341360a4ba67a06e89c.ttf",
     "static/media/Minecraft.ttf": "/static/media/Minecraft.81f6c7f882fcc2dee106.ttf",
     "static/media/metamask-button.svg": "/static/media/metamask-button.60d5347cf47b40b5e10d9a1454435e19.svg",
     "static/media/github.svg": "/static/media/github.ca3156b4372e9d26fc1d699002d06890.svg",
@@ -48,8 +49,8 @@
     "index.html": "/index.html",
     "static/media/copy-button.svg": "/static/media/copy-button.edfe1024284434f617da13e59aa99b16.svg",
     "static/media/copied-check.svg": "/static/media/copied-check.09bc9157994ccfee9b31254b36ecb865.svg",
-    "main.2acbe60c.css.map": "/static/css/main.2acbe60c.css.map",
-    "main.e64c7e97.js.map": "/static/js/main.e64c7e97.js.map",
+    "main.6c626817.css.map": "/static/css/main.6c626817.css.map",
+    "main.37bbd610.js.map": "/static/js/main.37bbd610.js.map",
     "689.c2ea1aa5.chunk.js.map": "/static/js/689.c2ea1aa5.chunk.js.map",
     "820.7f6df0db.chunk.js.map": "/static/js/820.7f6df0db.chunk.js.map",
     "589.8a31458e.chunk.js.map": "/static/js/589.8a31458e.chunk.js.map",
@@ -88,7 +89,7 @@
     "658.70f3f4da.chunk.js.map": "/static/js/658.70f3f4da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2acbe60c.css",
-    "static/js/main.e64c7e97.js"
+    "static/css/main.6c626817.css",
+    "static/js/main.37bbd610.js"
   ]
 }
